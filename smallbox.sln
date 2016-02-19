@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "smallbox", "smallbox\smallbox.ccproj", "{B97B5BEC-458E-4C00-B57C-CC6D35EC066D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceWebRole1", "WCFServiceWebRole1\WCFServiceWebRole1.csproj", "{74436C3B-6037-47D8-AB5D-879592B44437}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerRole1", "WorkerRole1\WorkerRole1.csproj", "{C82A6F0E-9104-4AA7-B6AC-411AA2A9E128}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B97B5BEC-458E-4C00-B57C-CC6D35EC066D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B97B5BEC-458E-4C00-B57C-CC6D35EC066D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B97B5BEC-458E-4C00-B57C-CC6D35EC066D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B97B5BEC-458E-4C00-B57C-CC6D35EC066D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74436C3B-6037-47D8-AB5D-879592B44437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74436C3B-6037-47D8-AB5D-879592B44437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74436C3B-6037-47D8-AB5D-879592B44437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74436C3B-6037-47D8-AB5D-879592B44437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C82A6F0E-9104-4AA7-B6AC-411AA2A9E128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C82A6F0E-9104-4AA7-B6AC-411AA2A9E128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C82A6F0E-9104-4AA7-B6AC-411AA2A9E128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C82A6F0E-9104-4AA7-B6AC-411AA2A9E128}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
